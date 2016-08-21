@@ -1,7 +1,5 @@
-#set terminal pngcairo size 450,362 enhanced font 'Verdana,10'
 set terminal png font 'Verdana,10'
 set output "/home/janek/public_html/moisture.png"
-#set grid
 set grid y
 set title "how dry is your flower"
 set xlabel "time"
